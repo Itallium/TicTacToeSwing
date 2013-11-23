@@ -1,0 +1,4 @@
+Игра "Крестики - нолики" в Swing исполнении. Version 1.
+Код основан на моей консольной версии игры, которую можно найти по ссылке: https://github.com/Itallium/TicTacToe
+Код был полностью переписан под Swing, а так же были найдены и исправлены небольшие ошибки в исходниках.
+This file was modified by IntelliJ IDEA 12.1.6 for binding GitHub repository
